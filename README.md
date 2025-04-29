@@ -1,5 +1,6 @@
 # Vinoothna-Portfolio
 👋 Hi, I'm VINOOTHNA MADITHATI
+
 🎓 Recent Computer Science Graduate  
 💻 Aspiring Software Engineer | Full-Stack Developer  
 🚀 Passionate about building real-world applications with Python, Django, JavaScript, and SQL  
