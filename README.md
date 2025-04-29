@@ -1,3 +1,9 @@
 # Vinoothna-Portfolio
-Vinoothna's Web Portfolio
+👋 Hi, I'm VINOOTHNA MADITHATI
+🎓 Recent Computer Science Graduate  
+💻 Aspiring Software Engineer | Full-Stack Developer  
+🚀 Passionate about building real-world applications with Python, Django, JavaScript, and SQL  
+🌱 Currently learning: React & RESTful APIs  
+📫 How to reach me: vinoothnamadithati@gmail.com 
+Vinoothna's Web Portfolio:
 https://vinoothna-m.github.io/V-s-Portfolio/
